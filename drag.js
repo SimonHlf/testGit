@@ -1,1 +1,4 @@
 //javascript Doc
+function drag(){
+	
+}
